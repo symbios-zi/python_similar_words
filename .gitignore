@@ -1,0 +1,5 @@
+venv
+.*
+*.bin.gz
+*.w2v
+*.vec.gz
